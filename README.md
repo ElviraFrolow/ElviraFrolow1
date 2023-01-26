@@ -1,5 +1,5 @@
 <h1 style="text-align: center">Hi 👋, Ich bin Elvira</h1>
-<h3 align="center">Leidenschaftliche Fullstack Entwicklerin mit hohem Fokus auf das Schreiben von wartbarem, sauberem und testbarem Code.</h3>
+<h4 align="left">Leidenschaftliche Fullstack Entwicklerin mit hohem Fokus auf das Schreiben von wartbarem 👩‍🔧, sauberem 🧼 und testbarem 🧪 Code.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

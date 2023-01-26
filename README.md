@@ -7,8 +7,8 @@ Herausforderungen anzupacken und Projekte im Team umzusetzen. Seit September
 2022 bin ich jeden Tag am Coden und lernen, wie man responsive Webseiten mit JS,
 HTML und CSS umsetzt. 
 
-Warum ich mich für einen Quereinstieg als Dev entschieden habe? 👩‍💻💻 -
-🗣 Kurzgesagt: 
+Warum ich mich für einen Quereinstieg als Dev entschieden habe? 👩‍💻💻 
+- 🗣 Kurzgesagt: 
 - ✅ Komplexität wird niemals langweilig
 - 📚 Lebenslanges Lernen ist für mich ein natürlicher Teil des Lebens 
 - 🆕 Neue Technologien zu erlernen macht mir besonders viel Spaß 

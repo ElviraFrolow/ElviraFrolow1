@@ -20,6 +20,13 @@ Was sind meine next steps? 🧗‍♀️
 - 👩‍🎓 Nebenberuflich ein Studium in der Wirtschaftsinformatik abschließen 
 - 🦹‍♀️ An einem Hackathon teilnehmen
 
+<h2 align="left">Aktuelle Projekte:</h2>
+<h3 align="left">Tasty App 🥘 📲 - healthy recipes made by people for your healthy life</h3>
+Go to <a href="https://elaborate-horse-1270b4.netlify.app/">Website 🌏</a>
+View <a href="https://elaborate-horse-1270b4.netlify.app/">Git Repo 🌏</a>
+
+
+
 
 <h3 align="left">Folge mir auf LinkedIn:</h3>
 <p align="left">

@@ -20,10 +20,21 @@ Was sind meine next steps? 🧗‍♀️
 - 👩‍🎓 Nebenberuflich ein Studium in der Wirtschaftsinformatik abschließen 
 - 🦹‍♀️ An einem Hackathon teilnehmen
 
-<h2 align="left">Aktuelle Projekte:</h2>
-<h3 align="left">Tasty App 🥘 📲 - healthy recipes made by people for your healthy life</h3>
-Go to <a href="https://elaborate-horse-1270b4.netlify.app/">Website 🌏</a>
-View <a href="https://elaborate-horse-1270b4.netlify.app/">Git Repo 🌏</a>
+<h2 align="left">Aktuelle Projekte an denen ich arbeite:</h2>
+<h3 align="left">Tasty App 🥘 📲 - Healthy recipes for your healthy life</h3>
+<p>Die App basiert auf React und einer externen API. Die nächste Version der App soll noch um eine Registrierungs- und Login Funktion erweitert werden. Außerdem arbeite ich an einem Bookmark und Favorive Feature für die Rezepte 🔖 💙</p>
+Go to <a href="https://elaborate-horse-1270b4.netlify.app/">Website 🌏</a> 
+View <a href="#">Git Repo 🌏</a>
+
+<h3 align="left">Trust me, I'm A Dogtor 🐶🩺 - Funny Healthcare App for Dogs</h3>
+<p>Die App basiert auf React und Node.js, Datenbankeinbindung mit MongoDB und Mongoose</p>
+Go to <a href="#">Website 🌏</a> 
+View <a href="#">Git Repo 🌏</a>
+
+<h3 align="left">My Todo-List ✅ </h3>
+<p>Die App basiert auf React und Node.js. Die Datenbankanbindung läuft über MongoDB. Man kann zu seinen Todos auch Dokumente oder Fotos hinzufügen.</p>
+Go to <a href="#">Website 🌏</a> 
+View <a href="#">Git Repo 🌏</a>
 
 
 

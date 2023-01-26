@@ -1,9 +1,9 @@
 <h1 style="text-align: center">Hi 👋, Ich bin Elvira</h1>
 <h4 align="left">Leidenschaftliche Fullstack Entwicklerin mit hohem Fokus auf das Schreiben von wartbarem 👩‍🔧, sauberem 🧼 und testbarem 🧪 Code.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Folge mir auf LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/elvira-frolow-0b3094233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/elvira-frolow-0b3094233/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elvira-frolow-0b3094233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/elvira-frolow-0b3094233/" height="30" width="40" /></a>
 </p>
 
 Hi 🙋‍♀️, ich bin Elvira, Fullstack Developerin aus Deutschland. Ich 💛 es neue

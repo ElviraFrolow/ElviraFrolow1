@@ -20,21 +20,22 @@ Was sind meine next steps? 🧗‍♀️
 - 👩‍🎓 Nebenberuflich ein Studium in der Wirtschaftsinformatik abschließen 
 - 🦹‍♀️ An einem Hackathon teilnehmen
 
-<h2 align="left">Aktuelle Projekte an denen ich arbeite:</h2>
+<h2 align="left">Aktuelle Projekte an denen ich arbeite:</h2> <br/>
+<p>⛔️ Alle Projekte sind noch in Arbeit und werden Stück für Stück um weitere Features erweitert<p/>
 <h3 align="left">Tasty App 🥘 📲 - Healthy recipes for your healthy life</h3>
 <p>Die App basiert auf React und einer externen API. Die nächste Version der App soll noch um eine Registrierungs- und Login Funktion erweitert werden. Außerdem arbeite ich an einem Bookmark und Favorive Feature für die Rezepte 🔖 💙</p>
 Go to <a href="https://elaborate-horse-1270b4.netlify.app/">Website 🌏</a> 
-View <a href="#">Git Repo 🌏</a>
+View <a href="#">Git Repo</a>
 
 <h3 align="left">Trust me, I'm A Dogtor 🐶🩺 - Funny Healthcare App for Dogs</h3>
 <p>Die App basiert auf React und Node.js, Datenbankeinbindung mit MongoDB und Mongoose</p>
 Go to <a href="#">Website 🌏</a> 
-View <a href="#">Git Repo 🌏</a>
+View <a href="#">Git Repo</a>
 
-<h3 align="left">My Todo-List ✅ </h3>
-<p>Die App basiert auf React und Node.js. Die Datenbankanbindung läuft über MongoDB. Man kann zu seinen Todos auch Dokumente oder Fotos hinzufügen.</p>
-Go to <a href="#">Website 🌏</a> 
-View <a href="#">Git Repo 🌏</a>
+<h3 align="left">Mapty-App ✅ </h3>
+<p>Die Karte basiert auf der Leaflet Library und Geolocation Koordinaten. Features Highlights: Pin Location, Get Current Location, Erstellen von Workouts.</p>
+Go to <a href="https://elvirafrolow.github.io/mapty-app/">Website 🌏</a> 
+View <a href="https://github.com/ElviraFrolow/mapty-app">Git Repo</a>
 
 
 

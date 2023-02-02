@@ -32,7 +32,7 @@ View <a href="#">Git Repo</a>
 Go to <a href="#">Website 🌏</a> 
 View <a href="#">Git Repo</a>
 
-<h3 align="left">Mapty-App ✅ </h3>
+<h3 align="left">Mapty-App 🏃‍♀️ </h3>
 <p>Die Karte basiert auf der Leaflet Library und Geolocation Koordinaten. Features Highlights: Pin Location, Get Current Location, Erstellen von Workouts.</p>
 Go to <a href="https://elvirafrolow.github.io/mapty-app/">Website 🌏</a> 
 View <a href="https://github.com/ElviraFrolow/mapty-app">Git Repo</a>
